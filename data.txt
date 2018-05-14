@@ -1,0 +1,9 @@
+﻿ Try a test of how we can read in a file.
+do
+ what
+try:
+test;
+Everything should be working fine but I am going to keep adding some words to make sure
+that my program is working properly and there are no issues with adding to my hash table.
+
+I will also put in some, of these. and some of these ? yep : end of puncuation.
